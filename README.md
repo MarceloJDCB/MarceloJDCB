@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarceloJDCB
 - 👀 I’m interested in solve real problems.
-- 🌱 I’m currently learning Django and Vue.JS aand working in project for private initiate involving league of legends statistics analytics.
+- 🌱 I’m currently learning Django and Vue.JS, working in projects for private initiate and my personal project involving league of legends statistics analytics.
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me https://www.linkedin.com/in/marcelo-jorge-da-costa-barbosa/
 <!---
